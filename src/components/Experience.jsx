@@ -16,7 +16,7 @@ const timeline = [
     icon: FiAward,
     title: "Diploma in Engineering — Electronics",
     organization: "Chittagong Polytechnic Institute",
-    period: "2020 — Present",
+    period: "2020 — 2025",
     description:
       "Studying Electronics Technology while developing practical programming skills and building web development projects.",
   },
